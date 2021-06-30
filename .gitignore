@@ -1,0 +1,4 @@
+node_modules/
+# vscode配置
+.vscode/
+.vscode/!setting.json
